@@ -9,11 +9,6 @@ nav{
     text-align: center;
     height: 100%;
 }
-.back{
-    float:left;
-    margin: 30px 25px;
-    width: 30px;
-}
 .title{
     position:relative;
     font-size: 2rem;
