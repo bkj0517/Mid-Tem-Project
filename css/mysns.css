@@ -14,3 +14,13 @@ nav{
     margin: 30px 25px;
     width: 55px;
 }
+.title{
+    position:relative;
+    font-size: 2rem ;
+    padding:30px;
+    font-weight: bold;
+}
+.card{
+    margin-top:10%;
+    margin-left:10%;
+}
